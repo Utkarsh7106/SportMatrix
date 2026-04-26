@@ -6,6 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > A data-driven football analytics platform that uses **TOPSIS + Decision Tree** hybrid ranking to evaluate players and recommend the best team lineup.
+3rd Semester College Project
+
+
 
 ---
 
